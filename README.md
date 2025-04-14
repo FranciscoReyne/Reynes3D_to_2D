@@ -55,4 +55,10 @@ Si el foco está en **interacción y visualización fluida de un sujeto en 3D pr
 
 ---
 
+---
+---
+
+# El sistema es para hacer seguimiento de sujetos mediante camaras de video, mapa de zonas, y reconocimiento automático para identificar individualmente a cada persona. Se irá adaptando a medida que corre por lo que no contempla entrenamiento por individuos mas bien diferenciar a cada uno y hacerles seguimiento a pesar de que desaparezcan y aparezcan en otra camara. Es para seguimiento por ejemplo de reos en las carceles, el sistema identifica a un nuevo ingreso y puede mostrarlo en un modelo 3d asi como monitoreo especifico para el, los guardias no buscan camara por camara sino que la UX le muestra al mismo sujeto variando las camaras cuando sea necesario.
+
+
 # Prototipo básico en Godot donde tendremos un cubo como sujeto y una cámara que lo orbite con el mouse.
