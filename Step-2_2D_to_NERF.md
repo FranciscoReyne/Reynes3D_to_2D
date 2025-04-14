@@ -290,10 +290,13 @@ Abre `nerf_viewer/nerf_view_godot/nerf_player.tscn` con Godot.
 ## 📌 Notas
 
 - Este módulo es parte de `Reynes3D_to_2D`, un sistema de vigilancia inteligente para seguimiento multi-cámara de personas sin necesidad de reconocimiento facial.
-```
+
 
 ---
 
-¿Te armo también un `launcher.sh` para automatizar la ejecución completa de todo esto?
 
+# ELECCION DE CáMARA
 
+Streaming + seguimiento en vivo: 	Wyze Cam v3 (con RTSP), economica y cumple con lo requerido.
+
+Ver Tabla en "1.png".
